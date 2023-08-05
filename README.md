@@ -1,6 +1,6 @@
 ## Olá! Eu sou Otávio M. da Cunha 
-- 👀 Hoje estou trabalhando em automações de processos (RPA) em sistemas ERP
-- 🌱 Estudando a linguagem Python com integração a BotCity
+- 👀 Hoje estou trabalhando em automações de processos e Analise de dados
+- 🌱 Estudando a linguagem Python com integrações com Azure Synapse e entre outras integrações 
 - 📫 Contate-me no e-mail- otavio-cunha@hotmail.com / instagram - otaviocunnha
 
 
